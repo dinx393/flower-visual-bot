@@ -1,0 +1,15 @@
+# Python cache and local environment
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+
+# Locally generated design iterations; approved reference fixtures stay tracked.
+output/
+outputs/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/

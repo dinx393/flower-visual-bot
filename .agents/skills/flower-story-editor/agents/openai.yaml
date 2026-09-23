@@ -1,0 +1,4 @@
+interface:
+  display_name: "Редактор цветочных сторис"
+  short_description: "Оформляет и исправляет цветочные сторис в утверждённом стиле"
+  default_prompt: "Используй $flower-story-editor для обработки этой фотографии в сторис."
